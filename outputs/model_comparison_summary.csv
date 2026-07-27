@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Rolling Mean Baseline,93.59,115.5,N/A
+Random Forest,88.75,107.85,-0.0005
+XGBoost,88.98,108.25,-0.0079

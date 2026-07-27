@@ -33,28 +33,6 @@ The project answers two core business questions:
 
 ---
 
-## 📁 Repository Structure
-sales-forecasting-inventory-optimisation/
-│
-├── data/
-│ └── retail_store_inventory.csv # Original Kaggle dataset
-│
-├── notebooks/
-│ └── sales_forecasting_inventory.ipynb # Full analysis notebook
-│
-├── sql/
-│ └── queries.sql # 7 SQL queries (CTE, window functions)
-│
-├── outputs/
-│ ├── inventory_optimisation_results.csv # Results for all 100 store-product combos
-│ ├── model_comparison_summary.csv # Model performance comparison
-│ └── inventory_dashboard.html # Interactive Plotly dashboard
-│
-├── images/
-│ ├── matplotlib_dashboard.png # Static dashboard screenshot
-│ └── plotly_dashboard.png # Interactive dashboard preview
-│
-└── README.md
 
 ---
 
